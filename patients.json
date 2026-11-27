@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "id": 1802055,
+        "name": "Abi Nigussie",
+        "age": 20,
+        "gender": "male",
+        "phone": "0956783456",
+        "address": "Debre Berhan",
+        "disease": "teeth dieases",
+        "registration_date": "2026-11-27"
+    }
+]
